@@ -1,4 +1,4 @@
-# BMWInnoChallenge2024UC8
+# Drone Image Analysis Using GPT4 Vision-preview model
 BMW Innovation Challenge 2024 Use Case 8: Drone Image Analysis
 
 
